@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>Indian-Elephant-facts-for-kids.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\Indian-Elephant-facts-for-kids.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>535</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>maxresdefault3.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\maxresdefault3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>49</ymin>
+			<xmax>1118</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

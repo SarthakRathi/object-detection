@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewExtracted1</folder>
+	<filename>frame_0012.jpg</filename>
+	<path>/home/chaitanya/Project/NewExtracted1/frame_0012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1655</xmin>
+			<ymin>347</ymin>
+			<xmax>2194</xmax>
+			<ymax>1160</ymax>
+		</bndbox>
+	</object>
+</annotation>

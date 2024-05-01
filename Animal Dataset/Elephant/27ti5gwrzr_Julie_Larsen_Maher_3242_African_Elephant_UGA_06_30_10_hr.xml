@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>27ti5gwrzr_Julie_Larsen_Maher_3242_African_Elephant_UGA_06_30_10_hr.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\27ti5gwrzr_Julie_Larsen_Maher_3242_African_Elephant_UGA_06_30_10_hr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>178</ymin>
+			<xmax>1124</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

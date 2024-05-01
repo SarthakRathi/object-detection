@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>thM5QAJMIJ.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\thM5QAJMIJ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>27</ymin>
+			<xmax>398</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

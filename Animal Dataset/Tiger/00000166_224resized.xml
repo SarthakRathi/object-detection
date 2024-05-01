@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tiger-resize-224</folder>
+	<filename>00000166_224resized.png</filename>
+	<path>C:\Users\A\OneDrive\Desktop\dataset\archive (5)\tiger-resize-224\tiger-resize-224\00000166_224resized.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>22</ymin>
+			<xmax>188</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

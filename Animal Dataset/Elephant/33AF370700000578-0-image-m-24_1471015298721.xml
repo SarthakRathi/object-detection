@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>33AF370700000578-0-image-m-24_1471015298721.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\33AF370700000578-0-image-m-24_1471015298721.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>651</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>7</ymin>
+			<xmax>575</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

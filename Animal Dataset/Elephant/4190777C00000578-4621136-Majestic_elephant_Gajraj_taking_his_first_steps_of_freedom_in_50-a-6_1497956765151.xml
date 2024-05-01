@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>4190777C00000578-4621136-Majestic_elephant_Gajraj_taking_his_first_steps_of_freedom_in_50-a-6_1497956765151.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\4190777C00000578-4621136-Majestic_elephant_Gajraj_taking_his_first_steps_of_freedom_in_50-a-6_1497956765151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>962</width>
+		<height>765</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>82</ymin>
+			<xmax>789</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>

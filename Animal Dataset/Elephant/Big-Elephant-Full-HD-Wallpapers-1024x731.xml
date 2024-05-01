@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>Big-Elephant-Full-HD-Wallpapers-1024x731.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\Big-Elephant-Full-HD-Wallpapers-1024x731.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>731</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>25</ymin>
+			<xmax>808</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

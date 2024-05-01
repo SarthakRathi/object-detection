@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output_Tiger</folder>
+	<filename>frame_0066.jpg</filename>
+	<path>C:\Users\A\OneDrive\Desktop\dsml\output_Tiger\frame_0066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>854</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>563</ymin>
+			<xmax>379</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>

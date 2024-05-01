@@ -1,0 +1,26 @@
+<annotation>
+	<folder>abc</folder>
+	<filename>00000499_224resized.png</filename>
+	<path>C:\Users\A\OneDrive\Desktop\dataset\abc\00000499_224resized.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>21</ymin>
+			<xmax>182</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

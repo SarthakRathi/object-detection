@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>beautiful-dawn-dusk-1054655.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\beautiful-dawn-dusk-1054655.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3461</width>
+		<height>2150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>821</xmin>
+			<ymin>127</ymin>
+			<xmax>3047</xmax>
+			<ymax>2139</ymax>
+		</bndbox>
+	</object>
+</annotation>

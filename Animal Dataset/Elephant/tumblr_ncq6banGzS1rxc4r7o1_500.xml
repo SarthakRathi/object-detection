@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>tumblr_ncq6banGzS1rxc4r7o1_500.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\tumblr_ncq6banGzS1rxc4r7o1_500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>59</ymin>
+			<xmax>457</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

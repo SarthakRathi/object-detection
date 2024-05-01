@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Elephant</folder>
+	<filename>Kenyan-Elephant_2894256k.jpg</filename>
+	<path>C:\Users\Khushi Agrawal\Downloads\Elephant\Kenyan-Elephant_2894256k.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>858</width>
+		<height>536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>16</ymin>
+			<xmax>773</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

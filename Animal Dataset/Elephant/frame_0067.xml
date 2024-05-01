@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>frame_0067.jpg</filename>
+	<path>/home/chaitanya/Desktop/test/frame_0067.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>57</ymin>
+			<xmax>482</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

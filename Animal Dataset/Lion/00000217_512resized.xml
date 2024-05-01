@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lion-resize-512</folder>
+	<filename>00000217_512resized.png</filename>
+	<path>/home/chaitanya/Project/archive (5)/lion-resize-512/lion-resize-512/00000217_512resized.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>29</ymin>
+			<xmax>437</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>24</ymin>
+			<xmax>128</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize-512</folder>
+	<filename>00000207_512resized.png</filename>
+	<path>C:\Users\Khushi Agrawal\Desktop\cheetah-resize-512\resize-512\00000207_512resized.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>23</ymin>
+			<xmax>150</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
